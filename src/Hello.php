@@ -1,5 +1,5 @@
 <?php
-namespace Nazmul\HelloWord;
+namespace nazmulhossain\HelloWord;
 
 class Hello{
 	public function user(){

@@ -1,8 +1,11 @@
 {
-    "name": "nazmulhossian/hello-word",
+    "name": "nazmulhossain/hello-word",
+    "description": "A simple string genertate package",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nazmul\\HelloWord\\": "src/"
+            "nazmulhossain\\HelloWord\\": "src/"
         }
     },
     "authors": [
