@@ -1,0 +1,15 @@
+{
+    "name": "asus/hello-word",
+    "autoload": {
+        "psr-4": {
+            "HelloWord\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazmul Hossain",
+            "email": "hossainnazmul191@gmail.com"
+        }
+    ],
+    "require": {}
+}
