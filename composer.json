@@ -2,7 +2,7 @@
     "name": "nazmulhossian/hello-word",
     "autoload": {
         "psr-4": {
-            "HelloWord\\": "src/"
+            "Nazmul\\HelloWord\\": "src/"
         }
     },
     "authors": [
