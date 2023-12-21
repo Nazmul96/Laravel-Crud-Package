@@ -1,5 +1,5 @@
 {
-    "name": "asus/hello-word",
+    "name": "nazmul/hello-word",
     "autoload": {
         "psr-4": {
             "HelloWord\\": "src/"
